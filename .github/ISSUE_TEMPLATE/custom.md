@@ -1,4 +1,3 @@
----
 name: Custom issue template
 about: Describe this issue template's purpose here.
 title: ''
@@ -61,7 +60,3 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
-
----
-
-
