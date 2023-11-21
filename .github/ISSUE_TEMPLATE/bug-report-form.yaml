@@ -17,7 +17,6 @@ body:
       options:
         - iOS
         - Android
-      default: 1
     validations:
       required: true
   - type: input
