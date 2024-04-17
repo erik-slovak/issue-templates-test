@@ -9,14 +9,10 @@ body:
       label: Description
     validations:
       required: true
-  - type: dropdown
+  - type: input
     id: platform
     attributes:
       label: Platform
-      description: What operating system do you use?
-      options:
-        - iOS
-        - Android
     validations:
       required: true
   - type: input
